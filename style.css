@@ -1,0 +1,28 @@
+body{
+    font-family: Poppins;
+    background-color: #c9e4ca;
+}
+
+.header{
+    height: 100px;
+    background: radial-gradient(#c9e4ca, #87bba2) 
+
+}
+
+nav ul li {
+    font-size: x-large;
+    display: inline-block;
+    list-style-type: none;    
+    margin: auto;
+}
+
+a {
+    text-align: center;
+    
+}
+
+/* Formulario */
+
+h1 {
+    text-align: center;
+}
